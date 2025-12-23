@@ -4,8 +4,44 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="2tLoNiYxHB_98B_zm4X4-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="410" width="120" x="420" y="250" as="geometry" />
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-15" parent="1" style="whiteSpace=wrap;html=1;fillColor=#f0f8ff;strokeColor=#cccccc;rounded=0;" value="" vertex="1">
+          <mxGeometry height="400" width="600" x="20" y="385" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-16" parent="1" style="shape=triangle;perimeter=trianglePerimeter;whiteSpace=wrap;html=1;fillColor=#c0d8c0;strokeColor=#809080;opacity=80;" value="" vertex="1">
+          <mxGeometry height="200" width="250" x="70" y="435" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-17" parent="1" style="shape=triangle;perimeter=trianglePerimeter;whiteSpace=wrap;html=1;fillColor=#c0d8c0;strokeColor=#809080;opacity=80;" value="" vertex="1">
+          <mxGeometry height="180" width="200" x="270" y="455" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-18" parent="1" style="shape=triangle;perimeter=trianglePerimeter;whiteSpace=wrap;html=1;fillColor=#a0c0a0;strokeColor=#608060;fontColor=#333333;fontSize=14;" value="山" vertex="1">
+          <mxGeometry height="250" width="300" x="20" y="485" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-19" parent="1" style="shape=triangle;perimeter=trianglePerimeter;whiteSpace=wrap;html=1;fillColor=#a0c0a0;strokeColor=#608060;" value="" vertex="1">
+          <mxGeometry height="220" width="250" x="320" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-20" parent="1" style="whiteSpace=wrap;html=1;fillColor=#c0e0f0;strokeColor=#80b0c0;fontColor=#333333;fontSize=14;" value="水" vertex="1">
+          <mxGeometry height="100" width="600" x="20" y="685" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-21" parent="1" style="shape=tree;whiteSpace=wrap;html=1;fillColor=#80a080;strokeColor=#406040;fontColor=#333333;fontSize=12;" value="树" vertex="1">
+          <mxGeometry height="70" width="50" x="40" y="615" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-22" parent="1" style="shape=tree;whiteSpace=wrap;html=1;fillColor=#80a080;strokeColor=#406040;" value="" vertex="1">
+          <mxGeometry height="60" width="40" x="520" y="625" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-23" parent="1" style="shape=tree;whiteSpace=wrap;html=1;fillColor=#80a080;strokeColor=#406040;" value="" vertex="1">
+          <mxGeometry height="65" width="45" x="100" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-24" parent="1" style="shape=house;whiteSpace=wrap;html=1;fillColor=#d0c0a0;strokeColor=#807060;fontColor=#333333;fontSize=12;" value="茅屋" vertex="1">
+          <mxGeometry height="50" width="60" x="170" y="655" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-25" parent="1" style="shape=boat;whiteSpace=wrap;html=1;fillColor=#a08060;strokeColor=#604020;fontColor=#333333;fontSize=12;" value="小舟" vertex="1">
+          <mxGeometry height="30" width="80" x="370" y="715" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-26" parent="1" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;fontColor=#333333;fontSize=12;" value="云" vertex="1">
+          <mxGeometry height="40" width="80" x="420" y="415" as="geometry" />
+        </mxCell>
+        <mxCell id="2tLoNiYxHB_98B_zm4X4-27" parent="1" style="shape=cloud;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;" value="" vertex="1">
+          <mxGeometry height="35" width="70" x="100" y="405" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
